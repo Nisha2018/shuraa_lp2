@@ -278,7 +278,7 @@ ul{
 
 
 	.doubts .link{
-	    color: #a7a4a4;
+	    color: grey;
 	}
 
 	.doubts .number, .doubts .mail,
@@ -343,6 +343,15 @@ ul{
     line-height: 1.3;
     padding-bottom: 16px;
     font-weight: bold;
+}
+
+.number .link{
+	grid-template-rows: auto auto;
+    display: grid;
+}
+
+.link a:hover{
+	color: #ae0000;
 }
 
 

@@ -62,8 +62,8 @@ if(isset($_POST['Name'])){
         </div>
         <div class="content grid-m grid-t">
             <div class="text" data-aos="zoom-in">
-                <p class="heading">One Stop Support for Tax & Accounting Services</p>
-                <p class="font-20">Our tax consultants intend to extend your company’s financial potential and achieve systematic and timely accounting reports for your company.</p>
+                <p class="heading">One Stop Support for Tax & Accounting Services in the UAE</p>
+                <p class="font-20">Our tax consultants intend to extend your Company’s financial potential and achieve systematic and timely accounting reports, VAT return filing for your Company.</p>
             </div>
             
             <div class="form-area grid-m" data-aos="fade-up">
@@ -132,7 +132,7 @@ if(isset($_POST['Name'])){
                             <li>
                                 Group and individual registrations.
                             </li>
-                            <li>Guide to awareness of VAT registration procedure and VAT registration cost in UAE.</li>
+                           
                         </ul>
                     </div>
                 </div>
@@ -147,7 +147,7 @@ if(isset($_POST['Name'])){
                     </div>
                     <div class="info">
                         <ul>
-                            <li>Solution oriented advisory services in adherence to VAT laws and regualtions</li>
+                            <li>Solution oriented advisory services in adherence to VAT laws and regulations</li>
                             <li>Detailed case study to provide firm and effective advisory services.</li>
                             <li>
                                 Assistance in establishing the system for proper charging of VAT as required by the VAT regulations.
@@ -175,7 +175,7 @@ if(isset($_POST['Name'])){
                                 Preparation and filing of the monthly/quarterly VAT return.
                             </li>
                             <li>
-                                Follow up for tax issues and refund. VAT Implementation, Support and Consulting.
+                                Follow up for tax issues and refund, VAT Implementation, Support and Consulting.
                             </li>
                             <li>Attending Tax Audit sessions</li>
                         </ul>
@@ -188,7 +188,7 @@ if(isset($_POST['Name'])){
                 </div>
                 <div class="text">
                     <div class="title">
-                        <p>VAT Return Filing & Compliance Sevices</p>
+                        <p>VAT Return Filing & Compliance Services</p>
                     </div>
                     <div class="info">
                         <ul>
@@ -209,11 +209,11 @@ if(isset($_POST['Name'])){
                 </div>
                 <div class="text">
                     <div class="title">
-                        <p>Accounting & Book keeping Services</p>
+                        <p>Accounting & Book-keeping Services</p>
                     </div>
                     <div class="info">
                         <ul>
-                            <li>Maintenance of books of accounts, weekly or monthly Financial Reporting, bank and Ledgers reconciliation.</li>
+                            <li>Maintenance of books of accounts, weekly or monthly Financial Reporting.</li>
                             <li>Implementation of proper system of records and book keeping.</li>
                             <li>
                                 Monthly closure of books of accounts.
@@ -265,7 +265,7 @@ if(isset($_POST['Name'])){
                         <p>Qualified Tax experts</p>
                     </div>
                     <div class="desc">
-                        <p>Our qualified experts at Shuraa Tax offer quality accounting and tax services in the UAE.</p>
+                        <p>Our qualified experts offers quality accounting, taxation and VAT services in the UAE.</p>
                     </div>
                 </div>
             </div>
@@ -278,7 +278,7 @@ if(isset($_POST['Name'])){
                         <p>Well Informed Tax Agents</p>
                     </div>
                     <div class="desc">
-                        <p>Our tax agents and consultants familiarize you with the varying tax regulations and latest reforms.</p>
+                        <p>Our tax agents and consultants familiarize you with the varying tax regulations and latest reforms in the UAE.</p>
                     </div>
                 </div>
             </div>
@@ -291,7 +291,7 @@ if(isset($_POST['Name'])){
                         <p>FTA Compliant</p>
                     </div>
                     <div class="desc">
-                        <p>We solve complex tax matters & adhere to every FTA compliance through our accounting services.</p>
+                        <p>We solve complex tax matters & adhere to every FTA compliance through our accounting and taxation services.</p>
                     </div>
                 </div>
             </div>
@@ -301,7 +301,7 @@ if(isset($_POST['Name'])){
     <section class="doubts grid-m p-all">
         <div class="head font-bold
         font-22" data-aos="zoom-in">
-            <p>Have Doubts Related To UAE taxation ?</p>
+            <p>Have Doubts Related To UAE taxation and VAT ?</p>
         </div>
         <div class="content grid-m grid-t grid-d">
             <div class="number grid-m">
@@ -313,6 +313,7 @@ if(isset($_POST['Name'])){
                 </div>
                 <div class="link">
                     <a href="tel:+971 4408-1960">+971506923280</a>
+                    <a href="tel:+971502076561">+971502076561</a>
                 </div>
             </div>
             <div class="mail grid-m">
